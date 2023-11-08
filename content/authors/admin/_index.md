@@ -87,7 +87,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-     link: 'mailto:y3shao@uwaterloo.ca'
+    link: 'mailto:y3shao@uwaterloo.ca'
   - icon: github
     icon_pack: fab
     link: https://github.com/FrogHarkness
