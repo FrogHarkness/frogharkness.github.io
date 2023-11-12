@@ -72,7 +72,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing NEV general Benchmark and report to Germany HQ
+              * Analysing NEV total vehicle Benchmarking and report to Germany HQ
               * Build and Maintain website for business insights
               * In-depth knowledge of Vehicle and insights of NEV market in CN
         
@@ -91,15 +91,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/ZCJEUJDLQJR4
+          date_end: 'May 2023'
+          date_start: '2023-02-25'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          title: 'Supervised Machine Learning: Regression and Classification'
+          url: 'https://www.coursera.org/learn/machine-learning'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
@@ -230,20 +230,11 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: y3shao@uwaterloo.ca
+      phone: +86 13502037289
       appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+    
+      
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.4275'
