@@ -68,13 +68,15 @@ sections:
           company_logo: org-gc
           location: Beijing
           date_start: '2023-08-31'
-          date_end: '2023-12-23'
+          date_end: '2023-12-25'
           description: |2-
               Responsibilities include:
 
               * Analysing NEV total vehicle Benchmarking and report to Germany HQ
-              * Build and Maintain website for business insights
+              * Build and Maintain website for business insights by HTML & CSS
+              * Data Analysis from AWS database by numpy & regression
               * In-depth knowledge of Vehicle and insights of NEV market in CN
+    
         
     design:
       columns: '2'
@@ -91,7 +93,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/ZCJEUJDLQJR4
+        - certificate_url: https://coursera.org/share/ebe5498c7b8169d90bf86028a1405ccd
           date_end: 'May 2023'
           date_start: '2023-02-25'
           description: ''
@@ -100,23 +102,23 @@ sections:
           organization_url: https://www.coursera.org
           title: 'Supervised Machine Learning: Regression and Classification'
           url: 'https://www.coursera.org/learn/machine-learning'
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://coursera.org/share/dd66952eac15f40b7131520ac80dac73
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
+          description: Django Application Development with SQL and Databases
+          icon: coursera
+          organization: coursera
+          organization_url: https://www.coursera.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: https://coursera.org/share/6162ce5b0998eb980a37902b3604a843
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
           icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: coursera
+          organization_url: https://www.coursera.org
+          title: 'Java Programming: Solving Problems with Software'
           url: ''
     design:
       columns: '2'
