@@ -76,6 +76,21 @@ sections:
               * Build and Maintain website for business insights by HTML & CSS
               * Data Analysis from AWS database by numpy & regression
               * In-depth knowledge of Vehicle and insights of NEV market in CN
+              items:
+        - title: Research Assistant
+          company: University of Nottingham
+          company_url: 'www.bmwgroup.com'
+          company_logo: org-gc
+          location: Ningbo (On-site), Nottingham UK (Remote)
+          date_start: '2021-10-31'
+          date_end: '2022-06-25'
+          description: |2-
+              Responsibilities include:
+
+              * Data Accquisition from NI MyRio
+              * Build and Maintain website for business insights by HTML & CSS
+              * Data Analysis from AWS database by numpy & regression
+              * In-depth knowledge of Vehicle and insights of NEV market in CN
     
         
     design:
