@@ -87,11 +87,11 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Data Accquisition from NI MyRio
-              * Build and Maintain website for business insights by HTML & CSS
-              * Data Analysis from AWS database by numpy & regression
-              * In-depth knowledge of Vehicle and insights of NEV market in CN
-    
+              * Data Accquisition from NI MyRio 1900 by LabVIEW
+              * Design Instrumentation and Control Systems for programmatic and production process lines. Using PWM method to control eletric cylinder(simulated for Car suspension)
+              * Clean & Analyze raw data and produce reports and Tableau Reports on AWS server.
+              * Utilize LabVIEW software tools to program automated operation of process equipment
+
         
     design:
       columns: '2'
