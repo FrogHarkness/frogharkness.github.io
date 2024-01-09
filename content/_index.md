@@ -75,8 +75,7 @@ sections:
               * Analysing NEV total vehicle Benchmarking and report to Germany HQ
               * Build and Maintain website for business insights by HTML & CSS
               * Data Analysis from AWS database by numpy & regression
-              * Collected and analyzed domestic and global of vehicle & ADAS system market data using Python, PowerBI and other analysis tools so as to facilitate the quantitative analysis of the project.
-
+              * Collected and analyzed domestic and global of vehicle & ADAS system market data using Python, PowerBI and other analysis tools so as to 
         items:
         - title: Research Assistant
           company: University of Nottingham
