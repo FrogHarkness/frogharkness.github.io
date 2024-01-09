@@ -65,7 +65,7 @@ sections:
         - title: Benchmark Analyst
           company: BMW GROUP
           company_url: 'www.bmwgroup.com'
-          company_logo: org-gc
+          company_logo: bmw
           location: Beijing
           date_start: '2023-08-31'
           date_end: '2023-12-25'
