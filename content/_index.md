@@ -79,8 +79,8 @@ sections:
               items:
         - title: Research Assistant
           company: University of Nottingham
-          company_url: 'www.bmwgroup.com'
-          company_logo: org-gc
+          company_url: 'www.nottingham.ac.uk'
+          company_logo: not
           location: Ningbo (On-site), Nottingham UK (Remote)
           date_start: '2021-10-31'
           date_end: '2022-06-25'
