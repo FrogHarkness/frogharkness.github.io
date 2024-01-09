@@ -62,11 +62,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Benchmark Analyst
+        - title: Benchmark Analyst Intern
           company: BMW GROUP
           company_url: 'www.bmwgroup.com'
           company_logo: bmw
-          location: Beijing
+          location: Beijing (O)
           date_start: '2023-08-31'
           date_end: '2023-12-25'
           description: |2-
@@ -75,13 +75,14 @@ sections:
               * Analysing NEV total vehicle Benchmarking and report to Germany HQ
               * Build and Maintain website for business insights by HTML & CSS
               * Data Analysis from AWS database by numpy & regression
-              * In-depth knowledge of Vehicle and insights of NEV market in CN
-              items:
+              * Collected and analyzed domestic and global of vehicle & ADAS system market data using Python, PowerBI and other analysis tools so as to facilitate the quantitative analysis of the project.
+
+        items:
         - title: Research Assistant
           company: University of Nottingham
           company_url: 'www.nottingham.ac.uk'
           company_logo: not
-          location: Ningbo (On-site), Nottingham UK (Remote)
+          location: Ningbo (On-site), Nottingham, UK (Remote)
           date_start: '2021-10-31'
           date_end: '2022-06-25'
           description: |2-
