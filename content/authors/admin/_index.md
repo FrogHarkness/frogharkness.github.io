@@ -30,8 +30,8 @@ bio: Never lift, never give up
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantitative Finance
+  - Mathematics
 
 # Education to show in About widget
 education:
@@ -105,6 +105,8 @@ social:
 highlight_name: true
 ---
 
-Currently, I work for BMW Group as Benchmark Analyst. I study in University of Waterloo, majoring in Pure mathematics and mathematical finance.
+I am a 2B math student at the University of Waterloo, specializing in Pure Mathematics and Mathematical Finance. Currently, I am focused on expanding my knowledge in data science and machine learning, with a particular emphasis on PyTorch and TensorFlow.
+ 
 Seeking for 2024 Summer Coop
+
 {style="text-align: justify;"}
