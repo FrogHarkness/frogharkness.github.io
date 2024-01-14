@@ -61,7 +61,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      
+
       items:
         - title: Benchmark Analyst Intern
           company: BMW GROUP
@@ -78,7 +78,7 @@ sections:
               * Data Analysis from AWS database by numpy & regression
               * Collected and analyzed domestic and global of vehicle & ADAS system market data using Python, PowerBI and other analysis tools so as to facilitate the quantitative analysis of the project.
  
-      items:
+      
         - title: Research Assistant
           company: University of Nottingham
           company_url: 'www.nottingham.ac.uk'
