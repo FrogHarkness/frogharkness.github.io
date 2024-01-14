@@ -64,20 +64,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name:   Road bike
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 100
+        icon: person-biking
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Long Distance Running
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 60
+        icon: person-running
         icon_pack: fas
 
 # Social/Academic Networking
@@ -94,6 +94,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yizhong-shao-076448201/
+    icon: strava
+    icon_pack: fab
+    link: https://www.strava.com/athletes/86906444/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -106,7 +109,10 @@ highlight_name: true
 ---
 
 I am a 2B math student at the University of Waterloo, specializing in Pure Mathematics and Mathematical Finance. Currently, I am focused on expanding my knowledge in data science and machine learning, with a particular emphasis on PyTorch and TensorFlow.
+Also, I got a deep passion for road biking and long-distance running.
  
-Seeking for 2024 Summer Coop
+Currently Seeking for 2024 Summer Coop
+
+Thank you for visiting my website!
 
 {style="text-align: justify;"}
