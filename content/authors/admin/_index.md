@@ -94,7 +94,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yizhong-shao-076448201/
-    icon: strava
+  - icon: strava
     icon_pack: fab
     link: https://www.strava.com/athletes/86906444/
   # Link to a PDF of your resume/CV.
