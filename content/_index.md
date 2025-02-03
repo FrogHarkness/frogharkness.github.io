@@ -63,16 +63,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
       items:
-        - title:  Intern
+        
+        - title: Intern
           company: Brain Canada
-          company_url: 'www.Braincanada.ca'
-          company_logo: BCF
+          company_url: 'www.braincanada.ca'
+          company_logo: bcf
           location: Montreal
           date_start: '2025-01-01'
           date_end: '2025-04-25'
           description: |2-
               Responsibilities include:
-
               * Making brain research beneficial for all human beings.
     
         - title: Benchmark Analyst Intern
