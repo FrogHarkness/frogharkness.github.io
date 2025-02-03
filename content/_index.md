@@ -67,7 +67,7 @@ sections:
         - title: Intern
           company: Brain Canada
           company_url: 'www.braincanada.ca'
-          company_logo: bcf
+          company_logo: bmw
           location: Montreal
           date_start: '2025-01-01'
           date_end: '2025-04-25'
