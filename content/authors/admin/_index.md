@@ -81,10 +81,9 @@ Get out there and make it happen—your unique mission might just be the all-pur
 
 There is no universal remedy, no magic potion that heals every affliction. Perhaps one day, you and I will become that all-purpose medicine—a force capable of healing anything, even an entire nation. I truly believe that no disease in this world is beyond cure, a conviction I developed during my time at Brain Canada.
 
-Someday, we may meet again
-Even if nobody knows where the life goes through to
-Someday, we may meet again
-With the figures as we were in farewell
+Someday, we may meet again, even if nobody knows where the life goes through to,
+
+Someday, we may meet again, with the figures as we were in farewell
 
 Thank you for visiting my website!
 
