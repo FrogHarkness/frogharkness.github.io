@@ -26,13 +26,11 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Never lift, never give up
-<!--
+
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Quantitative Finance
-  - Mathematics
--->
+<!-- #Artificial Intelligence Quantitative Finance Mathematics -->
+
 # Education to show in About widget
 education:
   courses:
